@@ -17,7 +17,7 @@ $ sudo apt install php
 ### Ejecución 🔧
 
 ```
-$ cd escuela/
+$ cd laravel-bootstrap/
 ```
 
 _Ejecute el servidor_
@@ -36,8 +36,3 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 ## Autores ✒️
 
 * **Jesús Herrera** - *Trabajo Inicial* - [jesusherrera13](https://github.com/jesusherrera13)
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Free)
-
