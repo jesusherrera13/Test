@@ -1,3 +1,9 @@
+@php
+
+if(!isset($titulo)) $titulo = 'Título';
+
+@endphp
+
 <!-- Content Header (Page header) -->
 <div class="content-header">
   <div class="container-fluid">

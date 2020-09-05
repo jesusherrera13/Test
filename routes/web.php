@@ -15,12 +15,17 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
 
-    return view('dashboard');
+    return view('dashboard', ['titulo' => 'Inicio']);
 });
 
 Route::get('dashboard', function () {
 
-    return view('dashboard');
+    return view('dashboard', ['titulo' => 'Inicio']);
+});
+
+Route::get('dashboard1', function () {
+
+    return view('dashboard1');
 });
 
 // Alumnos
